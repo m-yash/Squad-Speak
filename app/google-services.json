@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574155160432",
+    "firebase_url": "https://squadspeak-5a036-default-rtdb.firebaseio.com",
+    "project_id": "squadspeak-5a036",
+    "storage_bucket": "squadspeak-5a036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574155160432:android:fe5b6c09d99b95fce66db5",
+        "android_client_info": {
+          "package_name": "com.example.squadspeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574155160432-frh9q2j5rc4mpvirdloppcs2edm7i7c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.squadspeak",
+            "certificate_hash": "53c821d306b327b798693e7ef30e01e1557a40cb"
+          }
+        },
+        {
+          "client_id": "574155160432-ao40nlrbre0smga6svkia2ldi98qqmsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVXfUZgODUfIKtm77-2EDn5I_EF6c73CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574155160432-ao40nlrbre0smga6svkia2ldi98qqmsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
